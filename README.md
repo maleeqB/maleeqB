@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @maleeqB
-- 👀 I’m interested in Software development for Android framework and the Web
-- 🌱 I’m currently learning Kotlin
 
-- 📫 How to reach me Email - malikbello084@gmail.com, Twitter - https://twitter.com/mabelo_89, Whatsapp - https://wa.me/+2348164408811
+- 📫 How to reach me Email - malikbello084@gmail.com
 
 <!---
 maleeqB/maleeqB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
